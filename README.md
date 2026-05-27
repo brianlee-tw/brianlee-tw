@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 我是 Yu-En Li 👋
 
-<!--
-**yu-en-li/yu-en-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一個熱衷於演算法與資訊科學的高中生，目前正系統性地累積程式實力與自主學習歷程，目標是在 APCS 檢測中取得理想成績並邁向資工/電機領域。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 備戰 APCS 檢定目標
+* 💻 **主要程式語言：** `C++`（主修解題思維）/ `Python`（輔助應用與腳本編寫）
+* 📈 **階段性檢定目標：** 觀念題 3 級分 + 實作題 3 級分 (總級分 6 級分以上)
+* 📅 **預計檢定時程：** 定期參加 APCS 檢測，以檢驗每階段的自主學習成效
+
+---
+
+## 🧠 自主學習與知識庫
+* 📝 **[Notion 自主學習筆記系統](https://www.notion.so/36a43be958cd80528db4df429506892f?v=36a43be958cd8075b3ac000c2c628f5d&source=copy_link)** *(核心知識庫：內含詳細的演算法思維、解題卡關筆記、錯題本以及長期讀書計畫)*
+
+---
+
+## 🚀 進行中的專案
+* 📚 **[APCS-Practice](./APCS-Practice)**
+  *(記錄我高中時期的刷題歷程。包含 ZeroJudge 基礎與進階題目解析、APCS 歷屆實作題模擬，以及常用演算法模板的建立與優化)*
+
+---
+
+## 🏅 學習經歷與活動參與
+* 🌲 **2025 年暑假 (升國三)：** 參與 **IONCamp (清大暑期程式競賽集訓營)** ── 接受高強度演算法與程式設計培訓，奠定了競賽思維的啟盟，並開啟對資訊科學的濃厚興趣。
+* 🎯 **現階段 (高一)：** 延續集訓營的啟發，持續透過 ZeroJudge 進行高頻刷題，並將學習成果系統化記錄於 Notion，逐步將理論轉化為實作戰力。
+
+---
+
+## 🛠 技能與工具
+* **程式語言：** C++ (演算法與結構化程式設計), Python (基礎實作)
+* **開發工具：** Git / GitHub, VS Code (搭配 Copilot 進行代碼排錯與學習)
+* **學習管理：** Notion (進度與筆記管理), YPT (專注力與讀書時間規劃)
+
+---
+
+## 🏫 關於我
+* 🎓 **目前身分：** 延平中學 (YPHS) 學生
+* 📍 **地理位置：** 台灣台北市 (Taipei, Taiwan)
