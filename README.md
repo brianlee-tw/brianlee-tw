@@ -17,7 +17,7 @@
 ---
 
 ##  進行中的專案
-*  **[APCS-Practice](./APCS-Practice)**
+*  **[./APCS-Practice](https://github.com/brianlee-tw/APCS-Practice)**
   *(記錄我高中時期的刷題歷程。包含 ZeroJudge 基礎與進階題目解析、APCS 歷屆實作題模擬，以及常用演算法模板的建立與優化)*
 
 ---
