@@ -17,7 +17,7 @@
 * 記錄我高中時期的刷題歷程與演算法模板建立。
 * 包含 ZeroJudge 基礎與進階題目解析、APCS 歷屆實作題模擬與優化。
 
-### 2. [ApexLayers Studio](https://github.com/apexlayers-studio) (Web 生產力工具專案)
+### 2. ApexLayers Studio (Web 生產力工具專案)
 * **核心理念：** 打造一系列 **極速、極簡、100% 無廣告且重視隱私（純瀏覽器端運算）** 的網頁生產力工具。
 * **個人挑戰：** 計畫系統性地獨立設計並推出 **50 個實用網頁工具**，目前 `#001` 號工具（Lightning JSON Formatter）正在開發中。
 * **技術實踐：** 本專案採用 **「現代 AI 協同開發模式（AI-Assisted Engineering）」**，在 Cursor 整合開發環境下與 AI 高效協作，專注於前端架構優化、使用者體驗與乾淨代碼的產出。
